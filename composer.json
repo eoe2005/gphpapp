@@ -6,6 +6,9 @@
             "App\\": "App/"
         }
     },
+    "homepage": "https://github.com/eoe2005/gphpapp",
+    "license": "MIT",
+
     "authors": [
         {
             "name": "吃掉大象的蚂蚁",
