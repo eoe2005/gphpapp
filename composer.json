@@ -1,0 +1,16 @@
+{
+    "name": "eoe2005/gphpapp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "吃掉大象的蚂蚁",
+            "email": "eoe2005@qq.com"
+        }
+    ],
+    "require": {}
+}
