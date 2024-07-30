@@ -2,7 +2,9 @@
 
 namespace App\Apps\Www\Controllers;
 
-class IndexController
+use G\Controller;
+
+class IndexController extends Controller
 {
 
 }

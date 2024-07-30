@@ -15,5 +15,7 @@
             "email": "eoe2005@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "eoe2005/gphplib": "^0.0.1"
+    }
 }
