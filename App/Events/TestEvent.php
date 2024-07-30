@@ -2,7 +2,13 @@
 
 namespace App\Events;
 
-class TestEvent
+use G\Event;
+
+class TestEvent extends Event
 {
 
+    function execute($data)
+    {
+        // TODO: Implement execute() method.
+    }
 }
