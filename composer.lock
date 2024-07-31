@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "afa8c4590f936bb2782eb977d4d32ad8",
+    "content-hash": "644a929542958000bb1529a69c87ed6d",
     "packages": [
         {
             "name": "eoe2005/gphplib",
-            "version": "0.0.1",
+            "version": "0.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/eoe2005/gphplib.git",
-                "reference": "67f63e1610aabb0810ca377ced05b13f85cfddf4"
+                "reference": "fa8484f890357b0bb4ed9d4506b7f94b98157dd8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/eoe2005/gphplib/zipball/67f63e1610aabb0810ca377ced05b13f85cfddf4",
-                "reference": "67f63e1610aabb0810ca377ced05b13f85cfddf4",
+                "url": "https://api.github.com/repos/eoe2005/gphplib/zipball/fa8484f890357b0bb4ed9d4506b7f94b98157dd8",
+                "reference": "fa8484f890357b0bb4ed9d4506b7f94b98157dd8",
                 "shasum": ""
             },
             "type": "library",
@@ -39,9 +39,9 @@
             "homepage": "https://github.com/eoe2005/gphplib",
             "support": {
                 "issues": "https://github.com/eoe2005/gphplib/issues",
-                "source": "https://github.com/eoe2005/gphplib/tree/0.0.1"
+                "source": "https://github.com/eoe2005/gphplib/tree/0.0.2"
             },
-            "time": "2024-07-30T14:24:31+00:00"
+            "time": "2024-07-31T01:26:26+00:00"
         }
     ],
     "packages-dev": [],
