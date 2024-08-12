@@ -16,6 +16,6 @@
         }
     ],
     "require": {
-        "eoe2005/gphplib": "^0.0.3"
+        "eoe2005/gphplib": "^0.0.6"
     }
 }
